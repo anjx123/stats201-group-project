@@ -16,4 +16,6 @@ Anrui:
 
 Eaven:
 - Form the Hypothesis test and explain what we are doing.
-
+- Clean up Table names and Figures
+- Add more reliable citations to the project.
+- Form the z-dist confidence intervals after Anrui is done.
