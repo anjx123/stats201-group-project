@@ -6,6 +6,7 @@ Notes:
 Wasay:
 - Compare bootstrapping and asymptotics (at end of Methods and Results section)
 - Discussion section
+- Remove Expected GPA from the project and rework the intro
 
 Shanmei:
 - Hypothesis test with bootstrapping
