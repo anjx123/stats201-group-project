@@ -1,0 +1,16 @@
+Notes:
+- remove expected GPA
+- confidence interval on cumulative GPA
+
+Wasay:
+- Compare bootstrapping and asymptotics (at end of Methods and Results section)
+- Discussion section
+
+Shanmei:
+- hypothesis test with bootstrapping
+
+Anrui:
+- 
+
+Eaven:
+-
