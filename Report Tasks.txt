@@ -7,7 +7,7 @@ Wasay:
 - Discussion section
 
 Shanmei:
-- hypothesis test with bootstrapping
+- Hypothesis test with bootstrapping
 
 Anrui:
 - 
