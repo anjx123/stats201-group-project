@@ -15,4 +15,5 @@ Anrui:
 - Hypothesis test with z-dist and explanations
 
 Eaven:
-Hypothesis test proportion 
+- Form the Hypothesis test and explain what we are doing.
+
