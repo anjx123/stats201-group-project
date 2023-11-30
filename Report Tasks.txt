@@ -1,6 +1,7 @@
 Notes:
 - remove expected GPA
 - confidence interval on cumulative GPA
+- Update table names from figure to table.
 
 Wasay:
 - Compare bootstrapping and asymptotics (at end of Methods and Results section)
@@ -10,7 +11,7 @@ Shanmei:
 - Hypothesis test with bootstrapping
 
 Anrui:
-- 
+- Hypothesis test with z-dist and explanations
 
 Eaven:
 Hypothesis test proportion 
